@@ -1,4 +1,4 @@
-**Travel Offer Manager Documentation**
+*Travel Offer Manager Documentation**
 
 **Overview**
 Travel Offer Manager is a Java application designed to efficiently manage travel offers. It provides functionalities to read travel offers from text files, store them in a database, and present them through a graphical user interface (GUI) built using Java Swing. This documentation outlines the key aspects of the Travel Offer Manager application.
